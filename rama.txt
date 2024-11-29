@@ -1,0 +1,3 @@
+contenido rama remota
+
+modificación desde local
